@@ -14,11 +14,9 @@ Control de versiones: Git.
 Mis proyectos
 Aquí hay una muestra de algunos de mis proyectos destacados:
 
-Proyecto 1: El Rincón del Sabiondo.
-
-Proyecto 2: Food.
-
-Proyecto 3: Rick and Morty.
+📚Proyecto 1: El Rincón del Sabiondo.
+🥙Proyecto 2: Food.
+👾Proyecto 3: Rick and Morty.
 
 Puedes encontrar más de mis proyectos en mi perfil de GitHub o en mi portafolio personal.
 
