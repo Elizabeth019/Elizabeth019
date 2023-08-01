@@ -6,7 +6,6 @@ Mis habilidades
 Front-end: HTML, CSS, JavaScript, React.js.
 Back-end: Node.js, Express.js.
 Base de datos: PostgreSQL, Sequelize.
-[Diseño y prototipado: Figma](url)
 Control de versiones: Git
 Mis proyectos
 Aquí hay una muestra de algunos de mis proyectos destacados:
