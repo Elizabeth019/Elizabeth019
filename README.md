@@ -27,7 +27,9 @@ Puedes encontrar más de mis proyectos en mi perfil de GitHub o en mi portafolio
 
 
 Contacto
+
 (👈lo encuentras aqui al lado )
+
 Portfolio: en construcción.
 
 
