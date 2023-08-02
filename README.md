@@ -27,11 +27,7 @@ Puedes encontrar más de mis proyectos en mi perfil de GitHub o en mi portafolio
 
 
 Contacto
-
-Correo electrónico: ponce.elizabeth.j@gmail.com
-
-LinkedIn: [Tu Perfil de LinkedIn](https://www.linkedin.com/in/elizabeth-ponce-4835b0255/)
-
+(👈lo encuentras aqui al lado )
 Portfolio: en construcción.
 
 
