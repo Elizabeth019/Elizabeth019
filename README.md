@@ -30,7 +30,7 @@ Contacto
 
 (👈lo encuentras aqui al lado )
 
-Portfolio: en construcción.
+Portfolio: (https://elizabeth-ponce.netlify.app/)
 
 
 Contribuciones
