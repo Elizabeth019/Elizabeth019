@@ -1,4 +1,4 @@
-![]()
+![](Developer.png)
 
 # 💫 Acerca de mí:
 
