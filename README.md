@@ -17,7 +17,7 @@ Control de versiones: Soy una usuaria experimentada de Git, lo que me permite co
 # 👩‍💻 Mis proyectos:
 Aquí hay una muestra de algunos de mis proyectos destacados:
 
-📚 Proyecto 1: El Rincón del Sabiondo - Un sitio web educativo donde los usuarios pueden acceder a una variedad de libros de descargas, como tambien dar.
+📚 Proyecto 1: El Rincón del Sabiondo - Un sitio web educativo donde los usuarios pueden acceder a una variedad de libros en linea.
 
 🥙 Proyecto 2: Alimentación - Una aplicación web para ayudar a las personas a planificar sus comidas diarias y llevar un registro de su ingesta nutricional.
 
