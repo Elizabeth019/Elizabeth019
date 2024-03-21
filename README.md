@@ -1,9 +1,4 @@
-![Texto alternativo](C:\Users\PC\Downloads\Developer.png)
-
-
-
-
-
+![]()
 
 # 💫 Acerca de mí:
 
