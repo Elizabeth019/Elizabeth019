@@ -4,17 +4,21 @@ Claro, aquí tienes una versión revisada que enfatiza tu interés por el desarr
 💫 Acerca de mí:
 ¡Hola! 👋 Soy Elizabeth, ¡bienvenido/a a mi perfil de GitHub! Soy una apasionada desarrolladora web con un enfoque especial en el backend. Disfruto creando aplicaciones web completas, desde la capa de presentación hasta la lógica del servidor y la gestión de bases de datos. Mi objetivo es combinar diseño y funcionalidad para ofrecer experiencias digitales de alta calidad. Siempre estoy emocionada por trabajar con tecnologías web modernas y seguir aprendiendo y mejorando mis habilidades. 👩‍💻🚀
 
-Habilidades:
+# Habilidades:
 
 Interfaz: Tengo experiencia en el desarrollo web front-end utilizando HTML, CSS y JavaScript. Además, he trabajado con frameworks como React.js para crear interfaces de usuario dinámicas e interactivas.
 Servicios de fondo: Mi verdadera pasión radica en el desarrollo backend. Me siento cómoda trabajando con Node.js y Express.js para construir APIs robustas y escalables, así como gestionar la lógica del servidor.
 Base de datos: He utilizado PostgreSQL como base de datos relacional en varios proyectos, y tengo experiencia con ORM como Sequelize para interactuar con la base de datos de manera eficiente.
 Control de versiones: Soy una usuaria experimentada de Git, lo que me permite colaborar de manera efectiva en proyectos de desarrollo de software.
-Mis proyectos:
+
+
+# 👩‍💻 Mis proyectos:
 Aquí hay una muestra de algunos de mis proyectos destacados:
 
 📚 Proyecto 1: El Rincón del Sabiondo - Un sitio web educativo donde los usuarios pueden acceder a una variedad de recursos y materiales de aprendizaje.
+
 🥙 Proyecto 2: Alimentación - Una aplicación web para ayudar a las personas a planificar sus comidas diarias y llevar un registro de su ingesta nutricional.
+
 👾 Proyecto 3: Rick y Morty - Una aplicación basada en la API de Rick y Morty que muestra información sobre los personajes, episodios y ubicaciones de la serie.
 Puedes encontrar más detalles sobre estos proyectos y otros en mi portafolio personal.
 
