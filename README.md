@@ -1,7 +1,28 @@
-# 💫 About Me:
-¡Hola! 👋 Soy Elizabeth ¡Bienvenido/aa mi perfil de GitHub! Soy una desarrolladora web apasionada por la creación de sitios web atractivos y funcionales. Me encanta trabajar con tecnologías web modernas y seguir aprendiendo y mejorando mis habilidades👩‍💻🚀<br><br>mis habilidades<br><br>Interfaz: HTML, CSS, JavaScript, React.js.<br><br>Servicios de fondo: Node.js, Express.js.<br><br>Base de datos: PostgreSQL, Sequelize.<br><br>Control de versiones: Git.<br><br>Mis proyectos Aquí hay una muestra de algunos de mis proyectos destacados:<br><br>📚Proyecto 1: El Rincón del Sabiondo.<br><br>🥙Proyecto 2: Alimentación.<br><br>👾Proyecto 3: Rick y Morty.<br><br>Puedes encontrar más de mis proyectos en mi perfil de GitHub o en mi portafolio personal.<br><br>contacto<br><br>(👈lo encuentras aquí al lado)<br><br>Portafolio: https://elizabeth-ponce.netlify.app/<br><br>Contribuciones<br><br>¡Estoy siempre abierta a contribuciones y sugerencias en mis proyectos! Si encuentras algún problema o tienes ideas para mejorar cualquier repositorio, no dudes en abrir un problema o enviar un pull request.<br><br>Agradecimientos<br><br>Gracias por visitar mi perfil de GitHub. Espero que encuentres mis proyectos interesantes y útiles. ¡No dudes en contactarme si tienes alguna pregunta o simplemente quieres charlar sobre desarrollo web! 🤗
 
+Claro, aquí tienes una versión revisada que enfatiza tu interés por el desarrollo backend:
 
+💫 Acerca de mí:
+¡Hola! 👋 Soy Elizabeth, ¡bienvenido/a a mi perfil de GitHub! Soy una apasionada desarrolladora web con un enfoque especial en el backend. Disfruto creando aplicaciones web completas, desde la capa de presentación hasta la lógica del servidor y la gestión de bases de datos. Mi objetivo es combinar diseño y funcionalidad para ofrecer experiencias digitales de alta calidad. Siempre estoy emocionada por trabajar con tecnologías web modernas y seguir aprendiendo y mejorando mis habilidades. 👩‍💻🚀
+
+Habilidades:
+
+Interfaz: Tengo experiencia en el desarrollo web front-end utilizando HTML, CSS y JavaScript. Además, he trabajado con frameworks como React.js para crear interfaces de usuario dinámicas e interactivas.
+Servicios de fondo: Mi verdadera pasión radica en el desarrollo backend. Me siento cómoda trabajando con Node.js y Express.js para construir APIs robustas y escalables, así como gestionar la lógica del servidor.
+Base de datos: He utilizado PostgreSQL como base de datos relacional en varios proyectos, y tengo experiencia con ORM como Sequelize para interactuar con la base de datos de manera eficiente.
+Control de versiones: Soy una usuaria experimentada de Git, lo que me permite colaborar de manera efectiva en proyectos de desarrollo de software.
+Mis proyectos:
+Aquí hay una muestra de algunos de mis proyectos destacados:
+
+📚 Proyecto 1: El Rincón del Sabiondo - Un sitio web educativo donde los usuarios pueden acceder a una variedad de recursos y materiales de aprendizaje.
+🥙 Proyecto 2: Alimentación - Una aplicación web para ayudar a las personas a planificar sus comidas diarias y llevar un registro de su ingesta nutricional.
+👾 Proyecto 3: Rick y Morty - Una aplicación basada en la API de Rick y Morty que muestra información sobre los personajes, episodios y ubicaciones de la serie.
+Puedes encontrar más detalles sobre estos proyectos y otros en mi portafolio personal.
+
+Contribuciones:
+Estoy siempre abierta a contribuciones y sugerencias en mis proyectos. Si encuentras algún problema o tienes ideas para mejorar cualquier repositorio, no dudes en abrir un problema o enviar un pull request.
+
+Agradecimientos:
+Gracias por visitar mi perfil de GitHub. Espero que encuentres mis proyectos interesantes y útiles. No dudes en contactarme si tienes alguna pregunta o simplemente quieres charlar sobre desarrollo web. ¡Estoy aquí para ayudar! 🤗
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/elizabeth-ponce-4835b0255/) 
 
