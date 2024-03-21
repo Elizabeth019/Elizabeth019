@@ -1,4 +1,4 @@
-#💫 Acerca de mí:
+# 💫 Acerca de mí:
 
 ¡Hola! 👋 Soy Elizabeth, ¡bienvenido/a a mi perfil de GitHub! Soy una apasionada desarrolladora web con un enfoque especial en el backend. Disfruto creando aplicaciones web completas, desde la capa de presentación hasta la lógica del servidor y la gestión de bases de datos. Mi objetivo es combinar diseño y funcionalidad para ofrecer experiencias digitales de alta calidad. Siempre estoy emocionada por trabajar con tecnologías web modernas y seguir aprendiendo y mejorando mis habilidades. 👩‍💻🚀
 
